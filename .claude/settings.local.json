@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/26359/AppData/Roaming/Claude/**)",
+      "mcp__github__create_or_update_file",
+      "mcp__github__create_repository"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
